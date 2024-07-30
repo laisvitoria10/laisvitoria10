@@ -2,7 +2,7 @@
 
 Meu nome é Lais
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,4 @@ lais.pelozato.rodrigues@escola.pr.gov.br
 
 lais.pelozato.rodrigues@escola.pr.gov.br
 
-![](https://tenor.com/pt-BR/view/loveyou-kiss-gif-23172038)
+![](https://media.tenor.com/Ez5abQcBMJIAAAAM/loveyou-kiss.gif)

@@ -11,3 +11,5 @@ Meu nome é Lais
 lais.pelozato.rodrigues@escola.pr.gov.br
 
 lais.pelozato.rodrigues@escola.pr.gov.br
+
+![](https://tenor.com/pt-BR/view/loveyou-kiss-gif-23172038)
